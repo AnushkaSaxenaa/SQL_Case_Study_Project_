@@ -1,4 +1,4 @@
-# 8 Week SQL Challenge
+# SQL Challenge
 
 This 8 Week SQL Challenge is by the Data With Danny.
 I have taken this Challenge to improve my SQL knowledge and this respository contains all of my SQL codes for #8WeekSQLChallenge
